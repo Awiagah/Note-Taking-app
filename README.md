@@ -2422,7 +2422,7 @@ const app = {
         
         // Show welcome message
         if (this.state.notes.length === 0) {
-            this.showToast('Welcome to Notely! Create your first note to get started.', 'info');
+            this.showToast('Welcome to Awiagah notes! Create your first note to get started.', 'info');
         }
     },
 
